@@ -1,0 +1,6 @@
+{
+  "name": "Sphere Network & Planner",
+  "description": "An integrated workspace to build future plans, track life progress, optimize contact networks, and build daily habits with simulated community feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
